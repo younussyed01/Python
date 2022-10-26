@@ -60,14 +60,9 @@ while current_incorrect_guesses < num_incorrect_guesses and False in answer_gues
         if letter == answer[current_answer_index]:
           answer_guessed[current_answer_index] =True
     else:
-      current_incorrect_guesses +=1
+        current_incorrect_guesses +=1
     #post game
-  if current_incorrect_guesses < num_incorrect_guesses:
-    print("Congradulations, you won!")
-  else:
-    print(f"sorry, you lost. the was {answer}")
-
-
-
- 
-
+if current_incorrect_guesses < num_incorrect_guesses:
+    print("Congratulations, you won!")
+else:
+    print(f"sorry, you lost. the answer was {answer}")
