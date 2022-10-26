@@ -1,6 +1,3 @@
-
 # get the answer
-
-answer = "whats up doc?"
-
+answer = "What's Up, Doc?"
 answer = answer.upper()
