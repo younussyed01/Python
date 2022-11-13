@@ -1,3 +1,5 @@
+
+
 import pygame
 
 pygame.init()
@@ -11,7 +13,7 @@ pygame.display.set_caption("Tank Domination")
 
 system_clock = pygame.time.Clock()
 
-game_tank_svg = pygame.image.load("//Users/younussyed/Desktop/codeProjects/Python/Coding_projects_cs/Hangman/hangman/hangman/tank/tank.svg")
+game_tank_svg = pygame.image.load("/Users/younussyed/Desktop/codeProjects/Python/Coding_projects_cs/Hangman/hangman/hangman/tank/tank.svg")
 
 game_tank_sprite = pygame.transform.scale(game_tank_svg, (75, 75))
 
