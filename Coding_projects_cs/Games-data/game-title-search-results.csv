@@ -1,0 +1,309 @@
+id,game_id,name,storyline,first_release_date,follow_count,hype_count,critic_rating_value,critic_rating_count,user_rating_value,user_rating_count
+156299,52197,Camp Pokémon,NULL,2014-10-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+32598,95746,Color by Number Pokémon Pixel Art,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+56149,4564,Learn with Pokémon: Typing Adventure,NULL,2011-04-21 00:00:00.000,NULL,NULL,NULL,NULL,68.0000,0
+163050,4563,My Pokémon Ranch,NULL,2008-03-25 00:00:00.000,2,NULL,40.0000,1,49.4976,7
+148948,135142,New Pokémon Snap,NULL,2021-04-29 00:00:00.000,2,4,81.2500,14,71.6708,18
+111904,60055,Odoru? Pokémon Ongakutai,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+97740,130429,Pocket Monsters Advance Generation: Pokémon Sūji Battle!!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+66118,63048,Pocket Monsters Advanced Generation: Minna de Pico Pokémon Waiwai Battle!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+49488,181505,Pocket Monsters Advanced Generation: Pokémon Suuji Battle!!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+49520,181507,Pocket Monsters Best Wishes!: Chinou Ikusei - Pokémon Daiundoukai,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+91435,125325,Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibōken!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+89546,143190,Pokémon Adventure,NULL,2000-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109371,6898,Pokémon Alpha Sapphire,NULL,2014-11-21 00:00:00.000,41,1,88.3333,3,80.6567,151
+45597,153510,Pokémon and the Last Wish,NULL,2021-06-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+45713,193163,Pokémon and the Last Wish Part II,NULL,2022-02-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+152085,7410,Pokémon Art Academy,NULL,2014-06-19 00:00:00.000,2,1,79.8333,7,67.6887,6
+178366,57344,Pokémon Bank,NULL,2013-12-25 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+190485,2325,Pokémon Battle Revolution,NULL,2006-12-14 00:00:00.000,9,NULL,53.2500,4,65.9967,53
+22443,8589,Pokémon Battle Trozei,NULL,2014-03-12 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+92299,77182,Pokémon Battrio,NULL,2007-11-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92638,147005,Pokémon Beekeeper,"You are the owner of an apiary.
+You and Herdier farm honey and sell it in the nearby city.
+Use that money to buy more nests, upgrade your team, or stimulate the bees!
+The hook: You have 9 days to get enough money to pay off your rent!
+Get enough money, and become a multi-millionaire from selling honey!",2021-02-28 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+163146,18447,Pokémon Black & Blue,NULL,2012-10-08 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+178481,8284,Pokémon Black Version 2,NULL,2012-06-23 00:00:00.000,37,NULL,82.2857,7,83.1160,115
+102,145096,Pokémon Blaze Online,NULL,2021-03-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188630,1511,Pokémon Blue,"The player character starts out in Pallet Town. When the player character tries to leave the town without a Pokémon of their own, they are stopped in the nick of time by Professor Oak, who invites them to his lab. There, he gives them a Pokémon of their own and a Pokédex, telling them about his dream to make a complete guide on every Pokémon in the world. After the player character battles their rival and leaves the lab, they are entitled to win every Gym Badge, compete in the Pokémon League, and fulfill Oak's dream by catching every Pokémon.",1996-10-15 00:00:00.000,109,NULL,NULL,NULL,85.5553,326
+117034,93046,Pokémon Box: Ruby & Sapphire,NULL,2003-05-30 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+81732,196863,Pokemon Breeder,NULL,2007-06-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180945,144051,Pokémon Brilliant Diamond,NULL,2021-11-18 00:00:00.000,3,1,78.7500,4,59.1698,20
+114579,150549,Pokémon Brilliant Diamond and Pokémon Shining Pearl Double Pack,NULL,2021-11-19 00:00:00.000,NULL,NULL,70.0000,3,NULL,NULL
+152415,146979,Pokémon Bushido,"The story of Pokémon Bushido revolves around you, the child of the Royal Samurai.
+After training under Sensei Sukiro for years, the time has come for you to get a Pokemon and become an official Kenshi.
+However, upon attending the Kenshi Initiation Tournament, you experience an unexpected turn of events, causing your journey to take you throughout the major villages of the Aisho Region! You will challenge all the various clans and earn merit for yourself while stopping the Akui Clan in their tracks. As you travel the region, you will meet new friends, and enemies, who will shape your adventure.",2021-03-15 00:00:00.000,4,1,NULL,NULL,NULL,NULL
+180060,135233,Pokémon Café Mix,NULL,2020-06-23 00:00:00.000,3,1,NULL,NULL,NULL,NULL
+114521,178359,Pokémon Cafe ReMix,NULL,2021-10-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+67085,131316,Pokémon Card Game: How To Play DS,NULL,2011-08-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+149967,11720,Pokémon Card GB2: Great Rocket-Dan Sanjou!,NULL,2001-03-28 00:00:00.000,3,NULL,NULL,NULL,NULL,NULL
+174466,2643,Pokémon Channel,NULL,2003-07-18 00:00:00.000,4,NULL,NULL,NULL,53.2150,17
+124707,55011,Pokémon Chasm Crosser,NULL,2017-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+130521,142918,Pokémon Clockwork,Discover a brand new world filled with adventure and mystery surrounding the Mythical Pokémon Celebi!,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+195646,2725,Pokémon Colosseum,NULL,2003-11-21 00:00:00.000,21,NULL,NULL,NULL,69.9949,91
+108672,182241,Pokémon Community Game,NULL,2020-05-24 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+63687,2288,Pokémon Conquest,NULL,2012-03-17 00:00:00.000,6,NULL,74.0000,7,77.0666,37
+18592,45690,Pokémon Crazy Drummer,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+1032,198851,Pokémon Cyclone 2,NULL,1999-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+148467,147178,Pokémon D.W.,"This game is just about 100% open world, you can do whatever you like, but the ultimate goal is to escape the town, you can do so by beating the main guard in a Pokébattle.
+Trade evolutions like seadra into kingdra are handled by using the trade item on them.
+Levelscaling is enabled for this game, that way you can keep exploring the same maps without overlevelling.
+The game is a bit dark (not super edgy or anything) so if you don't handle stuff like that very well then I don't recommend you play this game.",2020-08-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172721,18594,Pokémon Dash,NULL,2004-12-02 00:00:00.000,4,NULL,60.0000,1,33.2594,21
+152190,172745,Pokémon Deluge,NULL,2011-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+121122,140695,Pokemon Desolation,"You and your two friends, Ava and Scarlett are on a trip to the Ayrith Region, a large land mass split into several islands. With a freshly made trainer license, you are preparing to challenge the local Pokemon league and hopefully have an unforgettable and fun time with your friends. Unfortunately, a gang war between two mysterious groups erupts and you are separated from your friends and thrown into an island with an unfriendly passenger named Connor who does not hide his contempt for you at all but is willing to work with you. Scrounging up a stray Pokeball from the wreckage of the boat and on the run from the unfriendly natives who worship a man named Kuiki, you and Connor seek to find your friends and survive. Unfortunately things get even more complicated when you are entangled with the machinations of a man calling himself Shiv who knows you for some reason, and the idealistic Utopian dreams of a woman called Nova. Both with strange powers that defy reality and both wanting your support. How will you make your way in this island of mystery and deception? Things may not be all they seem...",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+193209,1560,Pokémon Diamond,"The games chronicle the adventures of a new Pokémon trainer who strives to become the Pokémon League Champion by collecting and training Pokémon. Like most games in the series, Diamond and Pearl feature eight Pokémon gyms led by Gym Leaders, professional trainers whose expertise lies in a particular Pokémon type. Gym Leaders (Roark, Gardenia, Maylene, Wake, Fantina, Byron, Candace, and Volkner) serve as bosses and reward skilled trainers with Gym badges, key to the advancement of the plot. As in Ruby and Sapphire, the protagonist must also thwart the schemes of a crime syndicate (and here, it is Team Galactic), who plans to use Pokémon to restructure the region into a utopia.
+
+Like all other Pokémon RPGs, Diamond and Pearl begin in the protagonist's hometown. After viewing a television report about a media-conducted search for a Red Gyarados, which was spotted at a faraway lake (Johto's Lake of Rage) the protagonist and his or her best friend travel together to check the local lake for a Pokémon like it. They spot Professor Rowan, a Pokémon evolution researcher, and his assistant, the playable character not selected in the game: Lucas (boy) or Dawn (girl). After a short discussion, the professor and his assistant leave the lake, leaving a briefcase behind. When they are attacked by wild Starly, the protagonist and his or her rival examine the case. The player is then given a choice among the three Pokémon found in the briefcase (Turtwig, Chimchar, or Piplup) with which to battle the Starly. After defeating the Starly, Lucas or Dawn retrieves and returns the briefcase to the professor. Noticing that a bond has been forged between the young protagonist and his or her chosen Pokémon, Rowan offers it to him or her, asking that he or she embark on a journey and fill his or her Pokédex.
+
+The protagonist encounters the main antagonist, Team Galactic, early in the game, when he or she must save Professor Rowan from its thugs; however, its motives are unclear until later. The protagonist encounters the Team twice (when it takes over a wind farm and when it sets up a base in Eterna City) before it takes over Sinnoh's three lakes in an attempt to capture the Mirage Pokémon (Uxie, Azelf, and Mesprit). Shortly after the player earns his or her seventh Gym Badge, Team Galactic captures the Mirage Pokémon and imprisons them inside the science laboratory of the Team Galactic Headquarters Building, where its members extract crystals from the Pokémon to create the Red Chain, an object that can control the legendary Pokémon Palkia (in Pearl) or Dialga (in Diamond) (both in Pokémon Platinum, though Giratina appears after this). After releasing the trio, the protagonist is able to access the cave atop Mt. Coronet, where the leader of Team Galactic awakens Dialga or Palkia. The legendary Pokémon's powers begin to overwhelm Sinnoh, causing the newly free Uxie, Azelf, and Mesprit to attempt to stop it. The player then battles Palkia/Dialga; after defeating or capturing the Pokémon, Sinnoh returns to normal. After this, the player will continue, eventually battling the Sinnoh Region Pokémon League's Elite Four: Aaron, Bertha, Flint, and Lucian. After defeating all four members, the player will battle the Sinnoh League champion, a woman named Cynthia, who had appeared before in the game. If the protagonist beats Cynthia, he or she is the new Sinnoh League champion, beating the game. After the player beats the game, there is a new island to explore that is filled with other types of Pokémon. His or her old friend, who challenged him or her to battles multiple times before, will be waiting for him or her here. The old friend will challenge the player to another battle. On this island, there are also stores and a tournament center.",2006-09-28 00:00:00.000,56,NULL,83.3333,3,81.4632,223
+166220,24945,Pokémon Dream Radar,NULL,2012-06-23 00:00:00.000,3,NULL,NULL,NULL,49.7275,6
+121968,210474,Pokémon Dream World,NULL,2010-09-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+52487,27052,Pokémon Duel,NULL,2016-04-12 00:00:00.000,1,NULL,69.5000,2,66.0704,6
+26233,198862,Pokémon Electronic Battle Arena,NULL,2000-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+189498,1517,Pokémon Emerald,"Both Team Magma and Team Aqua are featured as the villainous teams, each stirring trouble at different stages in the game. The objective of each team, to awaken Groudon and Kyogre, respectively, is eventually fulfilled.
+Rayquaza is prominent plot-wise, awakened in order to stop the destructive battle between Groudon and Kyogre. It is now the one out of the three ancient Pokémon that can be caught prior to the Elite Four challenge, while still at the same place and at the same high level as in Ruby and Sapphire.",2004-09-16 00:00:00.000,117,NULL,60.0000,1,85.5871,410
+110823,221394,Pokémon Empyrean,"The story takes place in the Omuran Region, after the latest evil team, ""Vordev Group"" has been defeated by a pokemon agent team lead by your father, Hal. Although the Group was defeated, some of its core members escaped. Present day, you and your father arrive in Selene Town for vacation, but soon, Hal is notified that the remains of the Group were found, and he runs off. Unfortunately, things do not go well, and Hal is captured by the remnants of the Group, that joined forces with a mysterious entity. Your quest will be twofold, to become the best Pokemon trainer, and to rescue your father.",2018-07-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+169826,188539,Pokémon Ethos,"When your father goes missing during a routine trip to Juletone City, it's up to you to discover his whereabouts!
+Travel through a region fresh off the heels of legalized Pokémon training, battling the newly established Gym Leaders on your way.
+Hone your skills for the inevitable confrontation with NOVA: The National Outcry of Valiant Allies!
+Learn the truth of what happened to your father on that faithful night with the ""help"" of your rival, the superhero wannabe: Howlight Harlequin!",2021-08-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+117594,205126,Pokémon Feuergrün,"The time has come! You're finally old enough to own your first Pokemon! Of course Professor Eiche is kind enough to give you 3 to choose from. But when you go to his lab to choose one, you burst into a robbery. A Team ShockIt member steals Eiche's E and the 3 Pokémon! What now? You can't go after them to get the Pokémon back, because the boy at the end of the dump won't let you on Route 1 without a Pokémon. By a happy coincidence, Maike comes by! Despite being a total novice when it comes to Pokémon, she does own one. Finally, she does you the favor of retrieving the Pokémon. At first the task seems very simple. Run to Team ShockIt's HQ, defeat the few members, and retrieve the Pokémon and the E. But the Pokémon and the E have already been taken away. In a top secret laboratory. There they try to create the ultimate Pokemon! To make matters worse, after storming Team ShockIt HQ, the police are after you. After all, you trespassed!",2007-04-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+82765,135871,Pokémon Fire Ash,NULL,2017-08-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+193877,1559,Pokémon FireRed,NULL,2004-01-29 00:00:00.000,109,NULL,NULL,NULL,83.2256,373
+172087,143758,Pokémon FireRed: Rocket Edition,NULL,2020-04-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+578,93495,Pokémon Fushigi no Dungeon: Ikuzo! Arashi/Mezase! Hikari/Susume! Honoo no Boukendan,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+37078,18704,Pokémon Fusion Generation,"Professor Bill creates a machine that can fuse Pokémon and give life to ""hybrid"" creatures, like Pikavee...",2012-11-11 00:00:00.000,12,NULL,NULL,NULL,NULL,NULL
+152432,131487,Pokémon Ga-Olé,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+121160,12515,Pokémon GO,NULL,2016-07-06 00:00:00.000,113,19,62.7273,11,66.2735,355
+165143,1558,Pokémon Gold,NULL,1999-11-21 00:00:00.000,100,NULL,87.5000,3,86.4567,271
+110074,8377,Pokémon Green,"The player character starts out in Pallet Town. When the player character tries to leave the town without a Pokémon of their own, they are stopped in the nick of time by Professor Oak, who invites them to his lab. There, he gives them a Pokémon of their own and a Pokédex, telling them about his dream to make a complete guide on every Pokémon in the world. After the player character battles their rival and leaves the lab, they are entitled to win every Gym Badge, compete in the Pokémon League, and fulfill Oak's dream by catching every Pokémon.",1996-02-27 00:00:00.000,3,NULL,NULL,NULL,79.8420,17
+167567,1556,Pokémon HeartGold,NULL,2009-09-12 00:00:00.000,70,NULL,85.7500,5,87.4400,243
+653,141960,Pokémon HOME,NULL,2020-02-11 00:00:00.000,3,1,NULL,NULL,NULL,NULL
+26239,198863,Pokémon I Choose You Challenge,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+139943,145370,Pokémon Iberia,"The Iberia region is a place full of life, party and bustling cities, but it also hides dark and sinister secrets that have been hidden for years. In Iberia there are Pokémon that have adapted uniquely to the region, acquiring characteristics of its ecosystem, history or folklore. During the adventure, characters with various intentions will appear: from pleasant companions to greedy villainous teams, to hilarious ruffians and corrupt politicians.",2019-07-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+152434,143761,Pokémon Infinite Fusion,NULL,2015-04-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+151125,186130,Pokémon Infinity,NULL,2020-05-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+89055,18989,Pokémon Insurgence,"Meet the Torren region, a Pokemon land devastated by war and crime. Organization nicknamed as ""Cults"" run this region: they have the only purpose of adoring Pokemons in one way or another. A man, called Agur, came to Torren and destroyed half of the cults, with only five remaining, before disappearing without a trace. Another man proclaim to follow the Agur's legacy and destroy the cults.One year has passed. You wake up in the prison of the Darkrai Cult. Mew comes to your rescue. You don't remember anything.",2015-05-13 00:00:00.000,NULL,NULL,NULL,NULL,79.9515,5
+173336,202405,Pokémon Island,"Previously the Pokémon Island was a island only of pokémon. There were very few people, most researchers like the notable professor Oak who studied the pokémon on island. However, three years ago has been proven the existence of pokémon Mew on the island.
+
+Because this was a very rare pokémon, this attracted a crowd with many trainers who sought Mew, so the island was filled with trainers.
+
+Many of them were very skilled and famous, others came in this island to challenge them, the island soon became a great meeting point for battles which led to the creation of many tournaments which also brought many viewers.
+
+Many things happened in the last three years, has created a great battle place: The Colosseum and the trainers were classified according the victories there.
+
+Many new pokémon were discovered on the island, others were released by other trainers, and some even went to stores. Most were discovered by explorers living in places never visited before. Some places are created to increase the diversity of pokémon that grew more and more.
+
+And this is the story of this place, Pokémon Island.",2011-07-23 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+21595,180959,Pokémon Jaspe,NULL,2019-07-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+98197,221843,Pokémon Legends: Arceus - Daybreak,NULL,2022-03-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172938,85590,Pokémon Link: Battle!,NULL,2014-03-13 00:00:00.000,NULL,NULL,NULL,NULL,67.0000,1
+163194,119156,Pokémon Masters,NULL,2019-08-29 00:00:00.000,3,4,NULL,NULL,39.5653,23
+194294,144248,Pokémon Masters EX,NULL,2019-08-29 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+13136,59116,Pokémon Mega Get!,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+92310,144721,Pokémon Mini: Snorlax's Lunch Time,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79220,153675,Pokémon MMO 3D,NULL,2015-05-14 00:00:00.000,6,NULL,NULL,NULL,NULL,NULL
+134139,18099,Pokémon Moon,NULL,2016-11-18 00:00:00.000,77,21,85.0000,3,77.9358,179
+93696,135978,Pokémon Moon: Fan Edition,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+165986,2320,Pokémon Mystery Dungeon: Blue Rescue Team,NULL,2005-11-17 00:00:00.000,13,NULL,65.0000,2,78.1227,51
+186634,2322,Pokémon Mystery Dungeon: Explorers of Darkness,NULL,2007-09-13 00:00:00.000,7,NULL,55.0000,2,80.5537,29
+192263,2323,Pokémon Mystery Dungeon: Explorers of Sky,NULL,2009-04-18 00:00:00.000,9,NULL,50.0000,3,81.4110,40
+165012,2321,Pokémon Mystery Dungeon: Explorers of Time,NULL,2007-09-13 00:00:00.000,10,NULL,70.0000,1,76.4633,40
+50289,4566,Pokémon Mystery Dungeon: Gates to Infinity,NULL,2012-11-23 00:00:00.000,4,NULL,63.6667,7,69.4684,20
+180676,103513,Pokémon Mystery Dungeon: Go For It! Radiant Adventure Squad,NULL,2009-08-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186621,103511,Pokémon Mystery Dungeon: Keep Going! Wildfire Adventure Squad,NULL,2009-08-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186640,103512,Pokémon Mystery Dungeon: Let's Go! Tempest Adventure Squad,NULL,2009-08-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+189111,2319,Pokémon Mystery Dungeon: Red Rescue Team,NULL,2005-11-17 00:00:00.000,13,NULL,NULL,NULL,70.0008,67
+112178,128069,Pokémon Mystery Dungeon: Rescue Team DX,NULL,2020-03-06 00:00:00.000,8,1,65.0000,7,78.7401,18
+93583,159108,Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack,NULL,2014-11-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+64990,16615,Pokémon Omicron,NULL,2015-03-19 00:00:00.000,3,NULL,NULL,NULL,NULL,NULL
+172767,194322,Pokémon Ópalo,"It's been 60 years since Coach Red became the Kanto Champion.
+Humanity has since experienced several economic collapses and humanitarian crises, which added to a change in the mentality of the population, has led to the closure of numerous Gyms and Pokémon Leagues, losing interest in the competition.
+
+The figure of the Pokémon trainer traveling through the region begins to look like a vestige of a golden past.
+Only the Cefira region remains a beacon willing to resist this change of cycle. This region is also the current world economic power and the most influential in international political decisions.
+
+Pueblo Brisa, in the rural part of Céfira. A young man receives a letter from an old childhood friend proposing an important mission. A discovery beyond the sea could bring prosperity back to the Pokémon world.
+
+Meanwhile, a strange astral Pokémon has appeared in the dreams of trainers, to announce the arrival of the end of the world.",2022-03-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+117685,66031,Pokémon Party Mini,"Pokémon Party Mini is a collection of several minigames, including: Hitmonchan’s Boxing, where you shake the system to ‘punch’; Pikachu’s Rocket Start, a game where you have to launch off a starting line before another Pokémon; Bellossom’s Dance, a DDR-like game; Chansey’s Dribble, kick the ball to the finish line as quickly as possible; Slowking’s Judge, predict if the tennis ball will land in or out of the court; Sneasel’s Fakeout, a rock-paper-scissors-like game for two players; Battlefield, where two to six players battle for the highest score; and Celebi’s Clock, which is essentially a clock with date, alarm and stopwatch function.",2001-11-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+7206,154415,Pokémon Pathways,NULL,2021-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+49500,181508,Pokémon PC Master,NULL,2006-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195888,1518,Pokémon Pearl,"The games chronicle the adventures of a new Pokémon trainer who strives to become the Pokémon League Champion by collecting and training Pokémon. Like most games in the series, Diamond and Pearl feature eight Pokémon gyms led by Gym Leaders, professional trainers whose expertise lies in a particular Pokémon type. Gym Leaders (Roark, Gardenia, Maylene, Wake, Fantina, Byron, Candace, and Volkner) serve as bosses and reward skilled trainers with Gym badges, key to the advancement of the plot. As in Ruby and Sapphire, the protagonist must also thwart the schemes of a crime syndicate (and here, it is Team Galactic), who plans to use Pokémon to restructure the region into a utopia.
+
+Like all other Pokémon RPGs, Diamond and Pearl begin in the protagonist's hometown. After viewing a television report about a media-conducted search for a Red Gyarados, which was spotted at a faraway lake (Johto's Lake of Rage) the protagonist and his or her best friend travel together to check the local lake for a Pokémon like it. They spot Professor Rowan, a Pokémon evolution researcher, and his assistant, the playable character not selected in the game: Lucas (boy) or Dawn (girl). After a short discussion, the professor and his assistant leave the lake, leaving a briefcase behind. When they are attacked by wild Starly, the protagonist and his or her rival examine the case. The player is then given a choice among the three Pokémon found in the briefcase (Turtwig, Chimchar, or Piplup) with which to battle the Starly. After defeating the Starly, Lucas or Dawn retrieves and returns the briefcase to the professor. Noticing that a bond has been forged between the young protagonist and his or her chosen Pokémon, Rowan offers it to him or her, asking that he or she embark on a journey and fill his or her Pokédex.
+
+The protagonist encounters the main antagonist, Team Galactic, early in the game, when he or she must save Professor Rowan from its thugs; however, its motives are unclear until later. The protagonist encounters the Team twice (when it takes over a wind farm and when it sets up a base in Eterna City) before it takes over Sinnoh's three lakes in an attempt to capture the Mirage Pokémon (Uxie, Azelf, and Mesprit). Shortly after the player earns his or her seventh Gym Badge, Team Galactic captures the Mirage Pokémon and imprisons them inside the science laboratory of the Team Galactic Headquarters Building, where its members extract crystals from the Pokémon to create the Red Chain, an object that can control the legendary Pokémon Palkia (in Pearl) or Dialga (in Diamond) (both in Pokémon Platinum, though Giratina appears after this). After releasing the trio, the protagonist is able to access the cave atop Mt. Coronet, where the leader of Team Galactic awakens Dialga or Palkia. The legendary Pokémon's powers begin to overwhelm Sinnoh, causing the newly free Uxie, Azelf, and Mesprit to attempt to stop it. The player then battles Palkia/Dialga; after defeating or capturing the Pokémon, Sinnoh returns to normal. After this, the player will continue, eventually battling the Sinnoh Region Pokémon League's Elite Four: Aaron, Bertha, Flint, and Lucian. After defeating all four members, the player will battle the Sinnoh League champion, a woman named Cynthia, who had appeared before in the game. If the protagonist beats Cynthia, he or she is the new Sinnoh League champion, beating the game. After the player beats the game, there is a new island to explore that is filled with other types of Pokémon. His or her old friend, who challenged him or her to battles multiple times before, will be waiting for him or her here. The old friend will challenge the player to another battle. On this island, there are also stores and a tournament center.",2006-09-28 00:00:00.000,34,NULL,NULL,NULL,84.6922,144
+141012,154796,Pokémon Phoenix Rising,NULL,2018-06-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+110886,138961,Pokémon Picross,NULL,2020-09-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180162,20039,Pokémon Picross,NULL,2015-12-02 00:00:00.000,3,NULL,71.6667,4,65.4482,16
+178862,194330,Pokémon Pikachu,NULL,1998-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+65719,212726,Pokémon Pikachu 2,NULL,1999-11-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172472,4068,Pokémon Pinball,NULL,1999-04-14 00:00:00.000,14,NULL,NULL,NULL,69.3808,69
+151873,66030,Pokémon Pinball Mini,"Starting with Diglett, the player must play his or her way through a total of 90 levels of pinball (70 in Quest mode, and 10 each in Time Attack and Score Attack), the object usually being to put a Poké Ball (serving as the pinball) in each hole. Along the way, the player can catch more Pokémon to use.",2001-11-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79864,4069,Pokémon Pinball: Ruby & Sapphire,NULL,2003-08-01 00:00:00.000,5,NULL,75.0000,2,79.9500,31
+45716,143403,Pokémon Planet,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL
+167562,1519,Pokémon Platinum,NULL,2008-09-13 00:00:00.000,65,NULL,78.6000,6,83.7277,271
+99303,80213,Pokémon Play It!,NULL,2000-02-01 00:00:00.000,NULL,3,NULL,NULL,NULL,NULL
+163099,24959,Pokémon Play It! Version 2,NULL,2000-02-29 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+92050,68380,Pokémon Playhouse,NULL,2017-09-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+113097,198864,Pokémon Poké Ball,NULL,1999-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109899,61007,Pokémon Poké Ball Launcher,NULL,2006-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+146423,198865,Pokémon Pokédex Organizer,NULL,1998-12-31 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+1556,180957,Pokémon Prisme,NULL,2012-03-24 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+13668,131390,Pokémon Project Studio Red/Blue Version,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+166989,181515,Pokémon Project Studio: Blue Version,NULL,1999-11-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+62328,181509,Pokémon Project Studio: Red Version,NULL,1999-11-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+89157,157527,Pokémon Psychic Seeds,NULL,2015-06-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+163628,49857,Pokémon Puzzle Challenge,NULL,2001-01-04 00:00:00.000,2,NULL,NULL,NULL,79.7823,9
+117585,66028,Pokémon Puzzle Collection,"The player is allowed to choose from a selection of different types of puzzles. Initially, the only options are Shadow Puzzle, Motion Puzzle, and Rescue Mission, but after completing 30 puzzles, a fourth variety, Power On, is unlocked. There are 20 puzzles for each type, divided into five levels, with four puzzles to a level. The higher a puzzle's level, the more difficult the puzzle is. Once a puzzle is solved, the Pokémon involved in the puzzle is added to the game's Pokédex, the Minidex.",2001-11-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+117582,66027,Pokémon Puzzle Collection Vol. 2,"It is similar to the first game, but some games have been modified. In addition, there are 80 new puzzles in this game.",2002-04-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+173839,3574,Pokémon Puzzle League,NULL,2000-09-25 00:00:00.000,8,NULL,NULL,NULL,75.9056,26
+138724,147177,Pokémon Quantum,"Are you prepared to see what it's like to live among the microscopical?
+After some science stuff gone wrong you find yourself lost in the Quantum Realm!
+Explore new types of Pokémon in this exciting short lived story!",2021-03-15 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+194516,102874,Pokémon Quest,Set off for adventure in the Pokémon Quest game. Venture out with your Pokémon buddies on expeditions across Tumblecube Island in search of loot in this free-to-start action-adventure. Modify your Pokémon buddies with discovered Power Stones to make your ultimate expedition team.,2018-05-29 00:00:00.000,3,NULL,60.0000,2,68.3107,36
+11408,91823,Pokémon Race Mini,"You have to run and jump over various obstacles in stages in order to get to the end before your opponent. There are obstacles throughout the stages such as grass and water.
+
+You have to complete three laps of each course in order to finish, and with each lap you get a special charge attack in order to quickly shoot forwards, gaining momentum and possibly reaching parts you couldn't previously get to.",2002-07-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+193398,14606,Pokémon Ranger,NULL,2006-03-23 00:00:00.000,14,NULL,50.0000,1,69.7961,60
+179473,4565,Pokémon Ranger: Guardian Signs,NULL,2010-03-06 00:00:00.000,8,NULL,68.6667,5,75.2875,30
+165958,14699,Pokémon Ranger: Shadows of Almia,NULL,2008-03-20 00:00:00.000,7,NULL,50.0000,3,69.9030,31
+57996,143763,Pokémon Raptor EX,NULL,2010-02-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+153698,218801,Pokemon Realidea System,NULL,2022-05-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+157108,127326,Pokémon Reborn,NULL,2015-03-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+64515,165582,"Pokémon Red, White, and Blue","PETA helped Pokémon liberate themselves from their trainers in Pokémon: Black & Blue, but giant corporations are still exploiting Pokémon for nefarious purposes. Are Pokémon profits earned at the expense of animals' well-being? Join PETA as we help Pikachu and his Pokémon friends journey to America to unravel a conspiracy that affects us all!",2013-10-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133153,139328,Pokémon Rejuvenation,"Many decades ago, Aevium was once a united and strong blossoming region. However, the calamity known as Storm-9 tore the region apart.
+The Aevium Region has lived a time of peace since then. Pokémon and Trainers alike band together to create a region worth living in. However, the dark and sinister organization, Team Xen, rises from the shadows to destroy what little peace the region has left. Explore the Aevium Region while also defending the land from Team Xen. Discover the dark secrets this world has kept hidden under the cracks that separate Aevium and shakes it to its very core.
+
+This world needs you.
+
+Will you lend us your strength?",NULL,NULL,NULL,NULL,NULL,NULL,NULL
+103741,129561,Pokémon Revolution Online,NULL,2015-08-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+150987,172758,Pokémon Royal,NULL,2020-06-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+165949,4562,Pokémon Rumble,NULL,2009-06-16 00:00:00.000,3,NULL,NULL,NULL,61.7536,16
+165946,4561,Pokémon Rumble Blast,NULL,2011-08-11 00:00:00.000,5,NULL,58.2000,5,56.6177,13
+23067,118490,Pokémon Rumble Rush,NULL,2019-05-15 00:00:00.000,NULL,NULL,NULL,NULL,69.9778,6
+178078,4560,Pokémon Rumble U,NULL,2013-04-24 00:00:00.000,1,NULL,50.5000,5,69.0000,2
+50506,9564,Pokémon Rumble World,"The game is set in the Kingdom of Toys. At the start of the game, the king greets the player's Mii, jealous of a magician who has 10 Pokémon, whereas the king only has one Pikachu. The player's Mii then leaves Castle Town via a hot-air balloon to collect wild Toy Pokémon. As the player befriends wild Toy Pokémon, their Adventurer Rank increases. As their Adventurer Rank increases, more items are available in the shop and the stages will feature more powerful Pokémon.",2015-04-08 00:00:00.000,2,NULL,70.0000,1,69.8391,11
+189453,1515,Pokémon Sapphire,NULL,2002-11-21 00:00:00.000,66,1,NULL,NULL,82.8428,212
+118453,76863,Pokémon Say Tap?,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+160873,191931,Pokémon Scarlet,NULL,2022-11-18 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+178907,203516,Pokémon Scarlet and Pokémon Violet Double Pack,NULL,2022-11-18 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+40528,61005,Pokémon Seek & Find,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+78039,199782,Pokémon Shattered Dimensions,"A family travels to a new place, because one of them will have to move there in a year for study reasons, and they must look for a good house where they can live. A few days later, two brothers begin a challenge, which consists of collecting 9 passes that are given to winners of small tournaments in the cities, in order to have the opportunity to participate in a festival where they will face the best.
+
+With the intention of winning, the protagonist embarks on his journey with a little Shinx, who was his gift for his twelfth birthday. However, a sinister figure appears with hostile intentions. Familiar and new faces await you.",2022-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+59458,223053,Pokémon Shattered Light,"Welcome to the Tepora Region. Challenge the Gym Challenge and become the Tepora Champion! Meet all kinds of different Pokémon, including a full completable National Dex along with Mega Evolutions, Shadow Pokémon and an estimated 10h story line to go along with it. You meet tons of different people. And you can even challenge the Battle Facilities once you've become the champion.",2022-08-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+187453,115653,Pokémon Shield,NULL,2019-11-15 00:00:00.000,58,18,67.5000,2,65.9286,104
+195901,144052,Pokémon Shining Pearl,NULL,2021-11-18 00:00:00.000,2,2,84.6667,3,79.9094,6
+167628,87797,Pokémon Showdown,NULL,2011-10-01 00:00:00.000,2,2,NULL,NULL,83.4139,7
+194096,8592,Pokémon Shuffle,NULL,2015-02-18 00:00:00.000,6,NULL,62.5000,3,63.6248,36
+159412,1513,Pokémon Silver,NULL,1999-11-21 00:00:00.000,111,NULL,85.0000,2,88.2550,263
+5972,123089,Pokémon Sleep,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+99088,135145,Pokémon Smile,NULL,2020-06-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133886,2324,Pokémon Snap,NULL,1999-03-21 00:00:00.000,40,NULL,NULL,NULL,76.1594,162
+117743,92306,Pokémon Sodateyasan Mini,"After setting the time and choosing a name, Professor Birch tells the player that he found rare eggs. However, he is too busy to take care of them, so he gives the player a choice between a Torchic, a Treecko, or a Mudkip to hatch and raise. The player's first task is to place the egg into a basket and stroke it until it hatches.
+
+The player interacts with the Pokémon using the D-pad to move a cursor around the interface. The player can pet, play with, and drag their Pokémon with this cursor. They can also interact with background objects such as a light switch and a drawer.
+
+Unlike standard virtual pet video games, the player's goal in Pokémon Breeder mini is not to keep the Pokémon alive but rather to train it in three out of four different skill categories. The game allows the player to train their Pokémon by playing with it using various toys, feeding it Pokéblocks, and playing with it outside in various challenges.",2002-12-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+62290,143764,Pokémon Solar Light & Lunar Dark,NULL,2019-01-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195876,1520,Pokémon SoulSilver,NULL,2009-09-12 00:00:00.000,62,NULL,90.0000,2,90.0808,197
+11194,221276,Pokémon Soulstones,NULL,2020-09-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+82662,146982,Pokémon Splice,"The story of the game centers around two teams that perform genetic experiments on Pokémon to create new forms. The two teams are the Biogress Foundation and Quantech Co.
+
+Play as a research assistant, helping Professor Cypress discover new Pokémon forms!
+Your starter ""Arenay"" is a special Pokémon that can change to any type!
+Experience a branching story, with two opposing research organizations you can join!
+There are multiple chapters with crossing paths!
+Discover new Stacona evolutions and regional forms!
+and much more!",2020-08-10 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+142231,163098,Pokemon Stadium,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+189136,2289,Pokémon Stadium,NULL,1999-04-30 00:00:00.000,48,NULL,NULL,NULL,72.8874,197
+189174,2290,Pokémon Stadium 2,NULL,2000-12-14 00:00:00.000,34,NULL,60.0000,1,76.4448,116
+152407,145809,Pokémon Steam,"During the world creation, Arceus - god of Pokémons - was attacked by a ""dimensional Pokémon"", severely injuring it in one blow. To face this terrible threat, Arceus called Palkia, Dialga and Giratina as reinforcements.
+
+After a fierce fight, the four legendary Pokémons had just enough strength to stand up to this mysterious Pokémon. They miraculously managed to force him back into his dimension.
+
+Arceus later realized that it was he who attracted this dimensional Pokémon, probably because he was the most powerful one in this universe. He then locked himself in his own dimension so as not to be threatened anymore.
+
+But among the inhabitants born from the creation of Arceus, a high-ranking person remembered the existence of the dimensional Pokémon. He had only one desire: to seize its power by any means possible.
+
+As the child of the League Champion, you will traverse and explore the Exodius region, pit your strength against its Gym Leaders, face the current Champion and become the most powerful trainer the region will ever know!",2020-01-16 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+109640,18100,Pokémon Sun,NULL,2016-11-18 00:00:00.000,75,19,86.0000,23,76.3978,151
+82394,136900,Pokémon Sun Moon Double Pack,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+65885,135943,Pokemon Sunday,"The player washes up on the shores of the Igandea River near Germanium Village with no memory of who they are or how they got there. The local Pokemon researcher, Professor Cherry suggests visiting the gym leaders of nearby towns. As they are community leaders, he suggests they may recognize you. The player journeys around, meeting the gym leaders, and slowly realizing that while some people recognize them, they seem hesitant to help the player out.
+The player goes on a journey of rooting out corruption as they try to discover their identity.",2019-04-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+177928,10906,Pokémon Super Mystery Dungeon,NULL,2015-09-17 00:00:00.000,12,1,72.8571,7,70.7297,34
+194258,37382,Pokémon Sword,NULL,2019-11-15 00:00:00.000,76,25,82.3636,11,72.6410,144
+187838,115652,Pokémon Sword & Pokémon Shield Double Pack,NULL,2019-11-15 00:00:00.000,17,1,NULL,NULL,NULL,NULL
+195664,128071,Pokémon Sword Expansion Pass,NULL,2020-06-17 00:00:00.000,3,1,NULL,NULL,72.0427,5
+66763,61001,Pokémon Team Rocket Blast Off,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+172728,64034,Pokémon Team Turbo,NULL,2005-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180675,25027,Pokémon Tetris,NULL,2002-03-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+139872,191939,Pokémon Titan,"The protagonist of this story is a young adult, his mother decides that it is time for him to leave the house. Start your adventure through the Aleteia region, catch all kinds of Pokemon, and face the the prestigious Pokemon League.
+
+On your way you will find many characters, friends, rivals and enemies, as you discover a story full of twists that always has something to offer.",2018-01-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+152431,143767,Pokémon Tower Defense,NULL,2011-03-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+162478,180292,Pokemon Tower Defense 2,NULL,2012-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+61582,4567,Pokémon Trading Card Game,NULL,1998-12-18 00:00:00.000,29,NULL,NULL,NULL,73.4316,90
+189637,171816,Pokémon Trading Card Game Live,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL
+185389,24423,Pokémon Trading Card Game Online,NULL,2011-03-24 00:00:00.000,99,1,NULL,NULL,64.5732,40
+85857,131497,Pokémon Tretta,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+172729,8588,Pokémon Trozei!,NULL,2005-10-20 00:00:00.000,2,NULL,70.0000,1,70.1071,15
+181456,221996,Pokémon TV Games,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+193360,36793,Pokémon Ultra Moon,NULL,2017-11-16 00:00:00.000,43,18,82.5000,4,67.5945,63
+127384,36792,Pokémon Ultra Sun,NULL,2017-11-16 00:00:00.000,76,36,84.1000,12,72.8235,66
+63548,136275,Pokémon Ultra Sun & Pokémon Ultra Moon: Veteran Trainer's Dual Pack,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+736,136892,Pokémon Ultra Sun Ultra Moon Double Pack,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+168493,135381,Pokémon Unite,NULL,2021-07-20 00:00:00.000,23,1,75.0000,2,71.0513,25
+7667,24949,Pokémon Uranium,NULL,2016-08-06 00:00:00.000,6,NULL,NULL,NULL,80.0747,11
+89391,191930,Pokémon Violet,NULL,2022-11-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79928,199996,Pokémon Void,NULL,2022-03-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136819,115731,Pokémon VR: Ash's Room,"''This is a fan made Project and has no ties to Nintendo or the Pokemon Company. I made this because I love the Pokemon series and wanted to make something that would pay tribute and put a smile on the face of other fans.
+
+I designed it for the HTC Vive and that's what I also tested it on but I also went ahead and mapped the Oculus Touch key as well. Since I do not have an Oculus Touch I can't 100% guarantee that it will work as intended. I've had a few people test it out on theirs and said it was playable. '' - Jarlan Perez",2017-02-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+135807,146556,Pokemon Wack,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+195106,1522,Pokémon White,NULL,2010-09-18 00:00:00.000,40,NULL,80.0000,1,81.7242,172
+110551,8353,Pokémon White Version 2,NULL,2012-06-23 00:00:00.000,34,NULL,80.0000,3,80.8764,112
+190380,204629,Pokemon Wilds,NULL,2021-10-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195142,2286,Pokémon X,NULL,2013-10-12 00:00:00.000,59,3,87.4000,11,78.3870,202
+92309,2724,Pokémon XD: Gale of Darkness,NULL,2005-08-04 00:00:00.000,15,NULL,40.0000,1,70.4479,60
+166118,218201,Pokémon Xenoverse: Per Aspera Ad Astra,"""The search for a father who has disappeared into nowhere is intertwined with a much more complex matter: interdimensional faults have begun to become more and more frequent in the Eldiw region, now invaded by the terrible X Species... The Xenoverse Eclipse is just around the corner and Team Dimension seems to have something to do with it! Will you be able to stop its shady plots and maintain the balance between the Earth and the Xenoverse, whose indissoluble bond has its roots in the past?""",2020-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+31351,2287,Pokémon Y,NULL,2013-10-12 00:00:00.000,72,5,91.2500,4,79.8137,223
+190467,1512,Pokémon Yellow,"Like Pokémon Red and Blue, Yellow takes place in the region of Kanto, which features habitats for 151 Pokémon species. The objectives remain the same as well, though some differences exist along the way. For example, in the beginning, the player is not given an option of choosing one of three starters. Instead, a wild Pikachu that Professor Oak catches becomes player's Pokémon, while the rival character takes an Eevee that was intended for the player. The plot takes from the anime, and features characters that were not featured in the game or have been enhanced to resemble their anime characters, including Jessie, James, Meowth, Nurse Joy and Officer Jenny. Similar to the anime, Pikachu refuses to evolve. Players are also given the opportunity to obtain the original three starters. As players quest on, they collect more Pokémon and use them to defeat the eight Gym Leaders and eventually the Elite Four, all the while battling Team Rocket, a gang devoted to using Pokémon in order to make themselves more powerful.",1998-09-12 00:00:00.000,104,NULL,80.0000,2,83.0958,365
+172682,43174,Pokémon Zany Cards,Pokémon Zany Cards​ is a small collection of four card games featuring Pokémon-oriented cards.,2001-11-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+37089,147050,Pokémon: A Slice of Life,"It's just a normal day for you in Magoor Town.
+You hang out with your friends, craving their respect.
+You receive a new Pokémon from your scientist father.
+You eat pizza at the famous Phil's Pizza Parlor.
+Everything is going to be perfectly normal today!
+
+...This game has nothing to do with time travel, dinosaurs, clowns, thieves, bikers, robots, airships, and pirates.
+
+I love pizza!",2020-08-10 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+36224,143023,Pokémon: Blossom of the Soul,"The Caracara region, although far apart from Camry, Tentin, or Dulyn, is a popular destination for all Trainers in the entire world. Due to its status as a melting pot, many opposing ideas combine.
+Many years before the events of the story, a mysterious group of people named the Island Protection Squad pledged to revive the region, which was struggling with climate change and pollution.
+Unfortunately, the group assumed too much power, and destroyed one of the islands. Due to this sudden act, they were banished from the region, then later disbanded.
+Present day, you and your friend go on a journey with two characters, a kind girl named Myrtle, and a mysterious, aggressive, and sword-wielding girl nicknamed Blade. You travel through the Caracara region, still feeling the effects of the Island Protection Squad all those years ago.
+
+With the new region, brings a whole new story! It is separate from DrawnToast's other games, and it is not necessary to play their older games to understand the story. However, some parts of the story will make more sense if you play Tentin Redux, The Light in Our Hearts, and The Camry Legend 2 beforehand!",2020-10-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+164796,209799,Pokemon: Eclat Pourpre,NULL,2015-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+153567,191277,Pokemon: Greg Version,NULL,2022-02-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+93809,135872,Pokémon: Legends of the Arena,NULL,2020-06-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+11244,136786,"Pokémon: Let’s Go, Pikachu! + Poké Ball Plus Pack",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+130988,102873,"Pokémon: Let's Go, Eevee!",NULL,2018-11-16 00:00:00.000,39,8,80.0000,2,69.6849,106
+142149,153546,"Pokémon: Let's Go, Eevee! + Poké Ball Plus Pack",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+195535,25877,"Pokémon: Let's Go, Pikachu!",NULL,2018-11-16 00:00:00.000,49,11,76.6923,17,75.5730,90
+180399,32124,Pokémon: Magikarp Jump,NULL,2017-05-23 00:00:00.000,7,NULL,NULL,NULL,56.7224,27
+129822,64033,Pokémon: Masters Arena,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+47232,203147,Pokémon: Towering Legends,NULL,2007-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+89632,222681,Pokémon: Towering Legends,NULL,2007-10-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+152436,136545,Pokémon: TYPE WILD,NULL,2006-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+160452,131002,Pokémon-e: Expedition Base Set,NULL,2001-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+60711,61693,Touzoku to 1000-Biki no Pokémon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+119594,191640,Who's That Pokémon?,NULL,2013-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
